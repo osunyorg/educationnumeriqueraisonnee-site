@@ -13,4 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: La lettre
+  target: "/la-lettre/"
+  kind: page
+  children: []
 
