@@ -17,4 +17,8 @@ items:
   target: "/la-lettre/"
   kind: page
   children: []
+- title: Plan d'action
+  target: "/plan-daction/"
+  kind: page
+  children: []
 
