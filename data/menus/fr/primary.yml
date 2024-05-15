@@ -1,6 +1,14 @@
 ---
 title: Menu principal
 items:
+- title: La lettre
+  target: "/la-lettre/"
+  kind: page
+  children: []
+- title: Plan d'action
+  target: "/plan-daction/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -11,14 +19,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: La lettre
-  target: "/la-lettre/"
-  kind: page
-  children: []
-- title: Plan d'action
-  target: "/plan-daction/"
   kind: page
   children: []
 
