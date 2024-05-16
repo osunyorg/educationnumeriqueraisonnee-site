@@ -12,6 +12,8 @@ fr:
         https://www.linkedin.com/company/education-num%C3%A9rique-raisonn%C3%A9e/
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
   taxonomies:
     administrator: administrators
     author: authors
