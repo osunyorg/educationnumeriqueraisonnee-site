@@ -1,8 +1,14 @@
 .blocks
     .block-call_to_action
-        background-color: #ff5e00 !important
+        background-color: $color-orange !important
         *
             color: #000000 !important
         .actions
-            a
+            a:first-child
                 font-size: pxToRem(22) !important
+                font-weight: bold
+                background: $color-text
+                color: $color-orange !important
+                &:hover
+                    background: $color-background !important
+                    color: $color-text !important
