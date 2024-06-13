@@ -8,6 +8,8 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        contact@education-numerique-raisonnee.com
       linkedin: >-
         https://www.linkedin.com/company/education-num%C3%A9rique-raisonn%C3%A9e/
   permalinks:
