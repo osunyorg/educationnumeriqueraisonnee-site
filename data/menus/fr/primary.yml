@@ -25,4 +25,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Nos Soutiens
+  target: https://www.education-numerique-raisonnee.com/nos-soutiens/
+  kind: url
+  children: []
 
