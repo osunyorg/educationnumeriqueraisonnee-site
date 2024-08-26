@@ -21,12 +21,12 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Nos soutiens
   target: https://www.education-numerique-raisonnee.com/nos-soutiens/
   kind: url
+  children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
   children: []
 
