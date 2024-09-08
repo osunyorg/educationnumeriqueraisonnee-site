@@ -29,4 +29,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Assises du Numérique à l'Ecole - 12 octobre
+  target: ''
+  kind: blank
+  children: []
 
