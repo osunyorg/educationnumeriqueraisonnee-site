@@ -8,11 +8,7 @@ items:
 - title: La lettre
   target: "/la-lettre/"
   kind: page
-  children:
-  - title: Plan d'action
-    target: "/plan-daction/"
-    kind: page
-    children: []
+  children: []
 - title: Nous sommes
   target: "/nous-sommes/"
   kind: page
