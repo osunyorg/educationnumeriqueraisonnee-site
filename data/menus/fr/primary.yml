@@ -8,11 +8,7 @@ items:
 - title: Droit des élèves à la déconnexion
   target: "/droit-des-eleves-a-la-deconnexion/"
   kind: page
-  children:
-  - title: Signataires de la tribune
-    target: ''
-    kind: blank
-    children: []
+  children: []
 - title: La lettre
   target: "/la-lettre/"
   kind: page
