@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Assises du Numérique à l'Ecole - 12 octobre 24
+  target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
+  kind: page
+  children: []
 - title: Droit des élèves à la déconnexion
   target: "/droit-des-eleves-a-la-deconnexion/"
   kind: page
@@ -13,10 +17,6 @@ items:
     target: "/que-faire-concretement/"
     kind: page
     children: []
-- title: Assises du Numérique à l'Ecole - 12 octobre 24
-  target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
-  kind: page
-  children: []
 - title: La lettre
   target: "/la-lettre/"
   kind: page
