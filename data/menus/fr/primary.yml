@@ -17,12 +17,12 @@ items:
   target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Nos soutiens
   target: "/nos-soutiens/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 - title: Nous sommes
