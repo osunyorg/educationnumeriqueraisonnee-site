@@ -25,14 +25,6 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Nous sommes
-  target: "/nous-sommes/"
-  kind: page
-  children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Soutiens et associations
   target: ''
   kind: blank
@@ -45,4 +37,12 @@ items:
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
+- title: Nous sommes
+  target: "/nous-sommes/"
+  kind: page
+  children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 
