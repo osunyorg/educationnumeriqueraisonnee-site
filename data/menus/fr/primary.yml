@@ -29,4 +29,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Droit des élèves à la déconnexion
+  target: ''
+  kind: blank
+  children: []
 
