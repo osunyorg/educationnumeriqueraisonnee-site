@@ -21,10 +21,6 @@ items:
   target: "/la-lettre/"
   kind: page
   children: []
-- title: Nos soutiens
-  target: "/nos-soutiens/"
-  kind: page
-  children: []
 - title: Associations amies
   target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
   kind: page
@@ -44,5 +40,9 @@ items:
 - title: Soutiens et associations
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Nos soutiens
+    target: "/nos-soutiens/"
+    kind: page
+    children: []
 
