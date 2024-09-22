@@ -13,6 +13,10 @@ items:
     target: ''
     kind: blank
     children: []
+  - title: Que faire, concrètement ?
+    target: "/que-faire-concretement/"
+    kind: page
+    children: []
 - title: La lettre
   target: "/la-lettre/"
   kind: page
