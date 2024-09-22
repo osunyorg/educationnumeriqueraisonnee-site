@@ -41,4 +41,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Soutiens et associations amies
+  target: ''
+  kind: blank
+  children: []
 
