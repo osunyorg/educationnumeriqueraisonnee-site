@@ -6,8 +6,8 @@ items:
   kind: page
   children:
   - title: Exemple de charte de déconnexion
-    target: ''
-    kind: blank
+    target: "/exemple-de-charte-de-deconnexion/"
+    kind: page
     children: []
   - title: Que faire, concrètement ?
     target: "/que-faire-concretement/"
