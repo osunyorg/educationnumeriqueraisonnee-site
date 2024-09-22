@@ -8,7 +8,11 @@ items:
 - title: Droit des élèves à la déconnexion
   target: "/droit-des-eleves-a-la-deconnexion/"
   kind: page
-  children: []
+  children:
+  - title: Exemple de charte de déconnexion
+    target: ''
+    kind: blank
+    children: []
 - title: La lettre
   target: "/la-lettre/"
   kind: page
