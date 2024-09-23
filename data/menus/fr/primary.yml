@@ -53,4 +53,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: En savoir plus
+  target: ''
+  kind: blank
+  children: []
 
