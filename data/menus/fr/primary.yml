@@ -25,7 +25,7 @@ items:
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
-- title: Que faire, concrètement ?
+- title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
   children:
