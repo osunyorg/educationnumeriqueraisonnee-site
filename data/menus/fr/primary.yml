@@ -32,11 +32,7 @@ items:
 - title: Soutiens et associations
   target: ''
   kind: blank
-  children:
-  - title: Associations amies
-    target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
-    kind: page
-    children: []
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -51,6 +47,10 @@ items:
   children:
   - title: Nos soutiens
     target: "/nos-soutiens/"
+    kind: page
+    children: []
+  - title: Associations amies
+    target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
   - title: Nous sommes
