@@ -13,18 +13,6 @@ items:
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
     children: []
-- title: Soutiens et associations
-  target: ''
-  kind: blank
-  children:
-  - title: Nos soutiens
-    target: "/nos-soutiens/"
-    kind: page
-    children: []
-  - title: Associations amies
-    target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
-    kind: page
-    children: []
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
@@ -39,6 +27,18 @@ items:
     children: []
   - title: Familles
     target: "/familles/"
+    kind: page
+    children: []
+- title: Soutiens et associations
+  target: ''
+  kind: blank
+  children:
+  - title: Nos soutiens
+    target: "/nos-soutiens/"
+    kind: page
+    children: []
+  - title: Associations amies
+    target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
 - title: Actualités
