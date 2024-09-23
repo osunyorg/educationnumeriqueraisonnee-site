@@ -45,10 +45,6 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Nous sommes
-  target: "/nous-sommes/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
@@ -56,5 +52,9 @@ items:
 - title: En savoir plus
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Nous sommes
+    target: "/nous-sommes/"
+    kind: page
+    children: []
 
