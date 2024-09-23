@@ -13,10 +13,6 @@ items:
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
     children: []
-  - title: Que faire, concrètement ?
-    target: "/que-faire-concretement/"
-    kind: page
-    children: []
 - title: Soutiens et associations
   target: ''
   kind: blank
@@ -29,6 +25,10 @@ items:
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
+- title: Que faire, concrètement ?
+  target: "/que-faire-concretement/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
