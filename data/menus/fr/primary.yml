@@ -29,12 +29,12 @@ items:
   target: "/que-faire-concretement/"
   kind: page
   children:
-  - title: Enseignants
-    target: "/enseignants/"
-    kind: page
-    children: []
   - title: Etablissements scolaires
     target: "/etablissements-scolaires/"
+    kind: page
+    children: []
+  - title: Enseignants
+    target: "/enseignants/"
     kind: page
     children: []
   - title: Familles
