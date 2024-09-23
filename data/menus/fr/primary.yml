@@ -29,10 +29,6 @@ items:
     target: "/familles/"
     kind: page
     children: []
-- title: Soutiens et associations
-  target: ''
-  kind: blank
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
