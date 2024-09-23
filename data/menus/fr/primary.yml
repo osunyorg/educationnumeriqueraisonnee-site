@@ -28,7 +28,11 @@ items:
 - title: Que faire, concrètement ?
   target: "/que-faire-concretement/"
   kind: page
-  children: []
+  children:
+  - title: Enseignants
+    target: "/enseignants/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -39,10 +43,6 @@ items:
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: Enseignants
-  target: "/enseignants/"
   kind: page
   children: []
 
