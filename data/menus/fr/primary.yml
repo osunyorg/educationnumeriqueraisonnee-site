@@ -33,6 +33,10 @@ items:
     target: "/enseignants/"
     kind: page
     children: []
+  - title: Etablissements scolaires
+    target: "/etablissements-scolaires/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
