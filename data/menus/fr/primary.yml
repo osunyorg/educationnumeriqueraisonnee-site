@@ -9,6 +9,10 @@ items:
   target: "/droit-des-eleves-a-la-deconnexion/"
   kind: page
   children:
+  - title: Tribune du 24 sept 24 (lemonde.fr)
+    target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
+    kind: page
+    children: []
   - title: Exemple de charte de déconnexion
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
