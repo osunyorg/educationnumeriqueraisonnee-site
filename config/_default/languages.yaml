@@ -14,6 +14,7 @@ fr:
         https://www.linkedin.com/company/education-num%C3%A9rique-raisonn%C3%A9e/
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
