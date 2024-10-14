@@ -65,7 +65,7 @@ items:
   target: "/contact/"
   kind: page
   children: []
-- title: Adhérer à ENR
+- title: Adhérer
   target: "/adherer-a-notre-association-enr/"
   kind: page
   children: []
