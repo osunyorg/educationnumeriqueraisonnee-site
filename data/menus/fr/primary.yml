@@ -65,4 +65,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Adhérer à ENR
+  target: ''
+  kind: blank
+  children: []
 
