@@ -66,7 +66,7 @@ items:
   kind: page
   children: []
 - title: Adhérer à ENR
-  target: ''
-  kind: blank
+  target: "/adherer-a-notre-association-enr/"
+  kind: page
   children: []
 
