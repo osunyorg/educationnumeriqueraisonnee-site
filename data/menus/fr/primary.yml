@@ -37,6 +37,10 @@ items:
     target: "/familles/"
     kind: page
     children: []
+- title: Nos positions
+  target: ''
+  kind: blank
+  children: []
 - title: En savoir plus
   target: ''
   kind: blank
@@ -68,9 +72,5 @@ items:
 - title: Adhérer
   target: "/adherer-a-notre-association-enr/"
   kind: page
-  children: []
-- title: Nos positions
-  target: ''
-  kind: blank
   children: []
 
