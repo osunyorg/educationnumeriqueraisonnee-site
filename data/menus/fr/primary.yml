@@ -13,14 +13,14 @@ items:
     target: "/signataires-de-la-tribune-publiee-sur-lemondefr/"
     kind: page
     children: []
-  - title: Exemple de charte de déconnexion
-    target: "/exemple-de-charte-de-deconnexion/"
-    kind: page
-    children: []
 - title: Nos positions
   target: ''
   kind: blank
   children:
+  - title: Exemple de charte de déconnexion
+    target: "/exemple-de-charte-de-deconnexion/"
+    kind: page
+    children: []
   - title: Assises du Numérique à l'Ecole - 12 oct. 24
     target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
     kind: page
