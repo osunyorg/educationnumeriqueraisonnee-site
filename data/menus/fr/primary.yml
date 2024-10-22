@@ -1,14 +1,14 @@
 ---
 title: Menu principal
 items:
-- title: Tribune droit des élèves à la déconnexion
-  target: "/droit-des-eleves-a-la-deconnexion/"
-  kind: page
-  children: []
 - title: Nos positions
   target: ''
   kind: blank
   children:
+  - title: Tribune droit des élèves à la déconnexion
+    target: "/droit-des-eleves-a-la-deconnexion/"
+    kind: page
+    children: []
   - title: Exemple de charte de déconnexion
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
