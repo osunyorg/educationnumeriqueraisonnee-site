@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Assises du Numérique à l'Ecole - 12 oct. 24
-  target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
-  kind: page
-  children: []
 - title: Tribune droit des élèves à la déconnexion
   target: "/droit-des-eleves-a-la-deconnexion/"
   kind: page
@@ -19,6 +15,14 @@ items:
     children: []
   - title: Exemple de charte de déconnexion
     target: "/exemple-de-charte-de-deconnexion/"
+    kind: page
+    children: []
+- title: Nos positions
+  target: ''
+  kind: blank
+  children:
+  - title: Assises du Numérique à l'Ecole - 12 oct. 24
+    target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
     kind: page
     children: []
 - title: Que faire concrètement ?
@@ -37,10 +41,6 @@ items:
     target: "/familles/"
     kind: page
     children: []
-- title: Nos positions
-  target: ''
-  kind: blank
-  children: []
 - title: En savoir plus
   target: ''
   kind: blank
