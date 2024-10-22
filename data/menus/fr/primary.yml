@@ -57,16 +57,16 @@ items:
     target: "/nos-soutiens/"
     kind: page
     children: []
+  - title: Contact
+    target: "/contact/"
+    kind: page
+    children: []
   - title: Associations amies
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
 - title: Actualités
   target: "/actualites/"
-  kind: page
-  children: []
-- title: Contact
-  target: "/contact/"
   kind: page
   children: []
 - title: Adhérer
