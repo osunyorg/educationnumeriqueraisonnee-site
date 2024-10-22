@@ -69,4 +69,8 @@ items:
   target: "/adherer-a-notre-association-enr/"
   kind: page
   children: []
+- title: Nos positions
+  target: ''
+  kind: blank
+  children: []
 
