@@ -13,10 +13,6 @@ items:
     target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
     kind: page
     children: []
-  - title: Signataires de la tribune
-    target: "/signataires-de-la-tribune-publiee-sur-lemondefr/"
-    kind: page
-    children: []
   - title: Exemple de charte de déconnexion
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
