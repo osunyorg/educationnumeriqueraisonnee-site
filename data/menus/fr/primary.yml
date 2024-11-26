@@ -9,14 +9,17 @@ items:
     target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
     kind: page
     children: []
+    file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
   - title: Tribune droit des élèves à la déconnexion - 24 sept. 24
     target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
     kind: page
     children: []
+    file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
   - title: Exemple de charte de déconnexion
     target: "/exemple-de-charte-de-deconnexion/"
     kind: page
     children: []
+    file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
@@ -25,14 +28,18 @@ items:
     target: "/etablissements-scolaires/"
     kind: page
     children: []
+    file: content/fr/pages/etablissements-scolaires/_index.html
   - title: Enseignants
     target: "/enseignants/"
     kind: page
     children: []
+    file: content/fr/pages/enseignants/_index.html
   - title: Familles
     target: "/familles/"
     kind: page
     children: []
+    file: content/fr/pages/familles/_index.html
+  file: content/fr/pages/que-faire-concretement/_index.html
 - title: En savoir plus
   target: ''
   kind: blank
@@ -41,28 +48,35 @@ items:
     target: "/nous-sommes/"
     kind: page
     children: []
+    file: content/fr/pages/nous-sommes/_index.html
   - title: Notre appel à signatures
     target: "/la-lettre/"
     kind: page
     children: []
+    file: content/fr/pages/la-lettre/_index.html
   - title: Nos soutiens
     target: "/nos-soutiens/"
     kind: page
     children: []
+    file: content/fr/pages/nos-soutiens/_index.html
   - title: Contact
     target: "/contact/"
     kind: page
     children: []
+    file: content/fr/pages/contact/_index.html
   - title: Associations amies
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     children: []
+    file: content/fr/pages/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Adhérer
   target: "/adherer-a-notre-association-enr/"
   kind: page
   children: []
+  file: content/fr/pages/adherer-a-notre-association-enr/_index.html
 
