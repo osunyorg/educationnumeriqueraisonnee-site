@@ -53,6 +53,13 @@ items:
     children: []
     path: "/pages/familles"
     file: content/fr/pages/familles/_index.html
+  - title: Téléchargez nos propositions
+    target: "/que-faire-concretement/telechargez-nos-propositions/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/que-faire-concretement/telechargez-nos-propositions"
+    file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
   path: "/pages/que-faire-concretement"
   file: content/fr/pages/que-faire-concretement/_index.html
 - title: En savoir plus
