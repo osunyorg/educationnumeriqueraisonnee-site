@@ -53,7 +53,7 @@ items:
     children: []
     path: "/pages/familles"
     file: content/fr/pages/familles/_index.html
-  - title: Téléchargez nos propositions
+  - title: Téléchargez toutes nos propositions
     target: "/que-faire-concretement/telechargez-nos-propositions/"
     kind: page
     new_tab: false
