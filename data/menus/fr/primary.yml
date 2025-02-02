@@ -6,6 +6,13 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: Téléchargez toutes nos propositions
+    target: "/que-faire-concretement/telechargez-nos-propositions/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/que-faire-concretement/telechargez-nos-propositions"
+    file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
   - title: Assises du Numérique à l'Ecole - 12 oct. 24
     target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
     kind: page
@@ -27,13 +34,6 @@ items:
     children: []
     path: "/pages/exemple-de-charte-de-deconnexion"
     file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
-  - title: Téléchargez toutes nos propositions
-    target: "/que-faire-concretement/telechargez-nos-propositions/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/que-faire-concretement/telechargez-nos-propositions"
-    file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
