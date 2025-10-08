@@ -123,4 +123,11 @@ items:
   children: []
   path: "/pages/adherer-a-notre-association-enr"
   file: content/fr/pages/adherer-a-notre-association-enr/_index.html
+- title: '8 octobre 2025 : Conférence de rentrée ENR'
+  target: "/conference-de-rentree-8-octobre-2025/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/conference-de-rentree-8-octobre-2025"
+  file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
 
