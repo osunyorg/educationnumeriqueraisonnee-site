@@ -113,21 +113,26 @@ items:
   target: "/actualites/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: '8 octobre 2025 : Conférence de rentrée ENR'
+    target: "/conference-de-rentree-8-octobre-2025/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/conference-de-rentree-8-octobre-2025"
+    file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Adhérer
-  target: "/adherer-a-notre-association-enr/"
-  kind: page
+- title: Nous contacter
+  target: educationnumeriqueraisonnee@gmail.com
+  kind: url
   new_tab: false
-  children: []
-  path: "/pages/adherer-a-notre-association-enr"
-  file: content/fr/pages/adherer-a-notre-association-enr/_index.html
-- title: '8 octobre 2025 : Conférence de rentrée ENR'
-  target: "/conference-de-rentree-8-octobre-2025/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/conference-de-rentree-8-octobre-2025"
-  file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
+  children:
+  - title: Adhérer
+    target: "/adherer-a-notre-association-enr/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/adherer-a-notre-association-enr"
+    file: content/fr/pages/adherer-a-notre-association-enr/_index.html
 
