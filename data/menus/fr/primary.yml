@@ -6,20 +6,6 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Téléchargez toutes nos propositions
-    target: "/que-faire-concretement/telechargez-nos-propositions/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/que-faire-concretement/telechargez-nos-propositions"
-    file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
-  - title: Assises du Numérique à l'Ecole - 12 oct. 24
-    target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/assises-du-numerique-a-lecole-12-octobre-2024"
-    file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
   - title: Tribune droit des élèves à la déconnexion - 24 sept. 24
     target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
     kind: page
@@ -27,20 +13,49 @@ items:
     children: []
     path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
     file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
-  - title: Exemple de charte de déconnexion
-    target: "/exemple-de-charte-de-deconnexion/"
-    kind: page
+  - title: Nos conférences
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Assises du Numérique à l'Ecole - 12 oct. 24
+      target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/assises-du-numerique-a-lecole-12-octobre-2024"
+      file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
+    - title: '8 octobre 2025 : Conférence de rentrée ENR'
+      target: "/conference-de-rentree-8-octobre-2025/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/conference-de-rentree-8-octobre-2025"
+      file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
+  - title: Nos documents clefs en main
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Nos dix principales propositions
+      target: "/que-faire-concretement/telechargez-nos-propositions/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/que-faire-concretement/telechargez-nos-propositions"
+      file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
+    - title: Exemple de charte de déconnexion à l'école et à la maison
+      target: "/exemple-de-charte-de-deconnexion/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/exemple-de-charte-de-deconnexion"
+      file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
+  - title: Nos tribunes dans la presse
+    target: ''
+    kind: blank
     new_tab: false
     children: []
-    path: "/pages/exemple-de-charte-de-deconnexion"
-    file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
-  - title: '8 octobre 2025 : Conférence de rentrée ENR'
-    target: "/conference-de-rentree-8-octobre-2025/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/conference-de-rentree-8-octobre-2025"
-    file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
