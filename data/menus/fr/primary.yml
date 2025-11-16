@@ -11,7 +11,7 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Assises du Numérique à l'Ecole - 12 oct. 24
+    - title: Assises du Numérique à l'Ecole le 12 octobre 2024
       target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
       kind: page
       new_tab: false
