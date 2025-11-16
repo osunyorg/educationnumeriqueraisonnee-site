@@ -25,6 +25,23 @@ items:
       children: []
       path: "/pages/conference-de-rentree-8-octobre-2025"
       file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
+  - title: Nos tribunes dans la presse
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Tribune publiée dans Le Monde le 24 septembre 2024
+      target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
+      file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
+    - title: Tribune publiée dans Télérama le 29 août 2025
+      target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
+      kind: url
+      new_tab: true
+      children: []
   - title: Nos documents clefs en main
     target: ''
     kind: blank
@@ -44,18 +61,6 @@ items:
       children: []
       path: "/pages/exemple-de-charte-de-deconnexion"
       file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
-  - title: Nos tribunes dans la presse
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: Tribune publiée dans Le Monde le 24 septembre 2024
-      target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
-      file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
