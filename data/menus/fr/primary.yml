@@ -132,14 +132,7 @@ items:
     target: "/contact/"
     kind: page
     new_tab: false
-    children:
-    - title: Contact
-      target: "/contact/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/contact"
-      file: content/fr/pages/contact/_index.html
+    children: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
   path: "/pages/contact"
