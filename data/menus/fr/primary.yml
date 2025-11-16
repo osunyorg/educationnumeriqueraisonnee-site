@@ -129,12 +129,10 @@ items:
     path: "/pages/adherer-a-notre-association-enr"
     file: content/fr/pages/adherer-a-notre-association-enr/_index.html
   - title: Vous souhaitez prendre contact avec nous
-    target: "/contact/"
-    kind: page
+    target: educationnumeriqueraisonnee@gmail.com
+    kind: url
     new_tab: false
     children: []
-    path: "/pages/contact"
-    file: content/fr/pages/contact/_index.html
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
