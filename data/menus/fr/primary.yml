@@ -6,13 +6,6 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Tribune droit des élèves à la déconnexion - 24 sept. 24
-    target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
-    file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
   - title: Nos conférences
     target: ''
     kind: blank
@@ -55,7 +48,14 @@ items:
     target: ''
     kind: blank
     new_tab: false
-    children: []
+    children:
+    - title: Tribune publiée dans Le Monde le 24 septembre 2024
+      target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
+      file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
