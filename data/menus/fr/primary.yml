@@ -54,12 +54,12 @@ items:
     new_tab: false
     children:
     - title: Nos dix principales propositions
-      target: "/que-faire-concretement/telechargez-nos-propositions/"
+      target: "/telechargez-nos-propositions/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/que-faire-concretement/telechargez-nos-propositions"
-      file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
+      path: "/pages/telechargez-nos-propositions"
+      file: content/fr/pages/telechargez-nos-propositions/_index.html
     - title: Exemple de charte de déconnexion à l'école et à la maison
       target: "/exemple-de-charte-de-deconnexion/"
       kind: page
@@ -94,12 +94,12 @@ items:
     path: "/pages/familles"
     file: content/fr/pages/familles/_index.html
   - title: Téléchargez toutes nos propositions
-    target: "/que-faire-concretement/telechargez-nos-propositions/"
+    target: "/telechargez-nos-propositions/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/que-faire-concretement/telechargez-nos-propositions"
-    file: content/fr/pages/que-faire-concretement/telechargez-nos-propositions/_index.html
+    path: "/pages/telechargez-nos-propositions"
+    file: content/fr/pages/telechargez-nos-propositions/_index.html
   path: "/pages/que-faire-concretement"
   file: content/fr/pages/que-faire-concretement/_index.html
 - title: En savoir plus
