@@ -70,7 +70,7 @@ items:
     - title: Charte du collectif Attention pour les candidats aux élections municipales
       target: https://www.collectifattention.com/charte-municipale/
       kind: url
-      new_tab: false
+      new_tab: true
       children: []
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
