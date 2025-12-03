@@ -67,6 +67,11 @@ items:
       children: []
       path: "/pages/exemple-de-charte-de-deconnexion"
       file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
+    - title: Charte du collectif Attention pour les candidats aux élections municipales
+      target: https://www.collectifattention.com/charte-municipale/
+      kind: url
+      new_tab: false
+      children: []
 - title: Que faire concrètement ?
   target: "/que-faire-concretement/"
   kind: page
