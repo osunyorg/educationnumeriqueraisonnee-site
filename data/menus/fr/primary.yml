@@ -181,13 +181,6 @@ items:
     children: []
     path: "/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti"
     file: content/fr/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti.html
-  - title: Des recommandations de bon sens pour encadrer l’usage du numérique à l’école
-    target: "/actualites/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole/"
-    kind: post
-    new_tab: false
-    children: []
-    path: "/posts/2025/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole"
-    file: content/fr/posts/2025/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole.html
   - title: "“Le message n’est pas clair : on dit aux parents que les écrans sont un
       danger pour leur enfant mais l’Éduc..."
     target: "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
@@ -235,6 +228,13 @@ items:
     children: []
     path: "/posts/2024/2024-04-10-bonjour-du-10-avril-2024"
     file: content/fr/posts/2024/2024-04-10-bonjour-du-10-avril-2024.html
+  - title: Faut-il interdire l'usage des téléphones portables dans les collèges ?
+    target: "/actualites/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges"
+    file: content/fr/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
