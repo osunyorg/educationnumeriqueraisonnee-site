@@ -25,6 +25,11 @@ items:
       children: []
       path: "/pages/conference-de-rentree-8-octobre-2025"
       file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
+    - title: Assises de l'Attention (4e édition) le 24 janvier 2026
+      target: https://www.collectifattention.com/assises-de-lattention/assises-2026/
+      kind: url
+      new_tab: true
+      children: []
   - title: Nos tribunes dans la presse
     target: ''
     kind: blank
