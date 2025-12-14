@@ -220,14 +220,21 @@ items:
     children: []
     path: "/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours"
     file: content/fr/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours.html
-  - title: 'Écrans chez les jeunes : premier portable, inscription sur les réseaux
-      sociaux... Que préconise le rapport publié ce mardi ?'
-    target: "/actualites/2024-04-30-ecrans-chez-les-jeunes-premier-portable-inscription-sur-les-reseaux-sociaux-que-preconise-le-rapport/"
+  - title: 'Écrans à l’école : entre « catastrophe sanitaire » et généralisation des
+      outils numériques'
+    target: "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
     kind: post
     new_tab: false
     children: []
-    path: "/posts/2024/2024-04-30-ecrans-chez-les-jeunes-premier-portable-inscription-sur-les-reseaux-sociaux-que-preconise-le-rapport"
-    file: content/fr/posts/2024/2024-04-30-ecrans-chez-les-jeunes-premier-portable-inscription-sur-les-reseaux-sociaux-que-preconise-le-rapport.html
+    path: "/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques"
+    file: content/fr/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques.html
+  - title: '"Bonjour !" matinale TF1 du 10 avril 2024'
+    target: "/actualites/2024-04-10-bonjour-du-10-avril-2024/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2024/2024-04-10-bonjour-du-10-avril-2024"
+    file: content/fr/posts/2024/2024-04-10-bonjour-du-10-avril-2024.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
