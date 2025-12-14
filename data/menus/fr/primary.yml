@@ -235,6 +235,20 @@ items:
     children: []
     path: "/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges"
     file: content/fr/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges.html
+  - title: Les écrans à l’école ou le règne des injonctions contradictoires
+    target: "/actualites/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires"
+    file: content/fr/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires.html
+  - title: Pour une éducation au numérique raisonnée? Interview SQOOL TV
+    target: "/actualites/2024-03-13-pour-une-education-au-numerique-raisonnee/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee"
+    file: content/fr/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
