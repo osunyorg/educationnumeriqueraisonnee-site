@@ -159,8 +159,6 @@ items:
     children: []
     path: "/posts/2025/2025-12-14-initiative-off-february-2026"
     file: content/fr/posts/2025/2025-12-14-initiative-off-february-2026.html
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
