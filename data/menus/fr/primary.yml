@@ -181,6 +181,21 @@ items:
     children: []
     path: "/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti"
     file: content/fr/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti.html
+  - title: Des recommandations de bon sens pour encadrer l’usage du numérique à l’école
+    target: "/actualites/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2025/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole"
+    file: content/fr/posts/2025/2025-02-17-des-recommandations-de-bon-sens-pour-encadrer-l-usage-du-numerique-a-l-ecole.html
+  - title: "“Le message n’est pas clair : on dit aux parents que les écrans sont un
+      danger pour leur enfant mais l’Éduc..."
+    target: "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l"
+    file: content/fr/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
