@@ -11,20 +11,6 @@ items:
     kind: blank
     new_tab: false
     children:
-    - title: Assises du Numérique à l'Ecole le 12 octobre 2024
-      target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/assises-du-numerique-a-lecole-12-octobre-2024"
-      file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
-    - title: '8 octobre 2025 : Conférence de rentrée ENR'
-      target: "/conference-de-rentree-8-octobre-2025/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/conference-de-rentree-8-octobre-2025"
-      file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
     - title: Assises de l'Attention (4e édition) le 24 janvier 2026
       target: "/assises-de-lattention-le-24-janvier-2026/"
       kind: page
@@ -32,11 +18,30 @@ items:
       children: []
       path: "/pages/assises-de-lattention-le-24-janvier-2026"
       file: content/fr/pages/assises-de-lattention-le-24-janvier-2026/_index.html
+    - title: '8 octobre 2025 : Conférence de rentrée ENR'
+      target: "/conference-de-rentree-8-octobre-2025/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/conference-de-rentree-8-octobre-2025"
+      file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
+    - title: Assises du Numérique à l'Ecole le 12 octobre 2024
+      target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/assises-du-numerique-a-lecole-12-octobre-2024"
+      file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
   - title: Nos tribunes dans la presse
     target: ''
     kind: blank
     new_tab: false
     children:
+    - title: Tribune publiée dans Télérama le 29 août 2025
+      target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
+      kind: url
+      new_tab: true
+      children: []
     - title: Tribune publiée dans Le Monde le 24 septembre 2024
       target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
       kind: page
@@ -44,11 +49,6 @@ items:
       children: []
       path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
       file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
-    - title: Tribune publiée dans Télérama le 29 août 2025
-      target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
-      kind: url
-      new_tab: true
-      children: []
     - title: Repensons la place du numérique dans l'éducation (Le Monde, 12 février
         2024)
       target: https://www.lemonde.fr/societe/article/2024/02/12/repensons-la-place-du-numerique-dans-l-education_6216172_3224.html
