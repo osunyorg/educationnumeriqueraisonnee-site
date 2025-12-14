@@ -196,6 +196,22 @@ items:
     children: []
     path: "/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l"
     file: content/fr/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l.html
+  - title: 'Enfant : Troubles du langage, du comportement… Les profs alertent sur
+      l’augmentation des problèmes liés aux écrans'
+    target: "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies"
+    file: content/fr/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies.html
+  - title: 'Interdiction du portable avant 11 ans: il faut une «approche bénéfices-risques»,
+      selon le collectif Éducation numérique raisonnée'
+    target: "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ"
+    file: content/fr/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
