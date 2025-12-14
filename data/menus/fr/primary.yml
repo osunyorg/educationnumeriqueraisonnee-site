@@ -159,6 +159,13 @@ items:
     children: []
     path: "/posts/2025/2025-12-14-initiative-off-february-2026"
     file: content/fr/posts/2025/2025-12-14-initiative-off-february-2026.html
+  - title: 4e édition des Assises de l'attention
+    target: "/actualites/2025-11-30-4e-edition-des-assises-de-lattention/"
+    kind: post
+    new_tab: false
+    children: []
+    path: "/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention"
+    file: content/fr/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention.html
 - title: Nous contacter
   target: "/contact/"
   kind: page
