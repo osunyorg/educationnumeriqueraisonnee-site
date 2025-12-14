@@ -148,8 +148,8 @@ items:
     path: "/pages/associations-de-sensibilisation-a-la-surexposition-aux-ecrans"
     file: content/fr/pages/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/_index.html
 - title: Actualités
-  target: "/actualites/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
   children: []
   path: "/posts"
