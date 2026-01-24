@@ -38,10 +38,12 @@ items:
     new_tab: false
     children:
     - title: Tribune parue dans Libération le 23 janvier 2026
-      target: https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
-      kind: url
-      new_tab: true
+      target: "/actualites/tribune-parue-dans-liberation-du-23012026/"
+      kind: page
+      new_tab: false
       children: []
+      path: "/pages/actualites/tribune-parue-dans-liberation-du-23012026"
+      file: content/fr/pages/actualites/tribune-parue-dans-liberation-du-23012026/_index.html
     - title: Tribune publiée dans Télérama le 29 août 2025
       target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
       kind: url
