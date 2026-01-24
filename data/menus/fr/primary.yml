@@ -55,6 +55,11 @@ items:
       kind: url
       new_tab: true
       children: []
+    - title: Tribune parue dans Libération le 23 janvier 2026
+      target: https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
+      kind: url
+      new_tab: true
+      children: []
   - title: Nos documents clefs en main
     target: ''
     kind: blank
