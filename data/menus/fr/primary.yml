@@ -37,6 +37,11 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Tribune parue dans Libération le 23 janvier 2026
+      target: https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
+      kind: url
+      new_tab: true
+      children: []
     - title: Tribune publiée dans Télérama le 29 août 2025
       target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
       kind: url
@@ -52,11 +57,6 @@ items:
     - title: Repensons la place du numérique dans l'éducation (Le Monde, 12 février
         2024)
       target: https://www.lemonde.fr/societe/article/2024/02/12/repensons-la-place-du-numerique-dans-l-education_6216172_3224.html
-      kind: url
-      new_tab: true
-      children: []
-    - title: Tribune parue dans Libération le 23 janvier 2026
-      target: https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
       kind: url
       new_tab: true
       children: []
