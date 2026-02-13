@@ -2,284 +2,413 @@
 title: Menu principal
 items:
 - title: Nos actions
+  slug: nos-actions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Nos conférences
+    slug: nos-conferences
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Assises de l'Attention (4e édition) le 24 janvier 2026
+      slug: assises-de-l-attention-4e-edition-le-24-janvier-2026
       target: "/assises-de-lattention-le-24-janvier-2026/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/assises-de-lattention-le-24-janvier-2026"
       file: content/fr/pages/assises-de-lattention-le-24-janvier-2026/_index.html
     - title: '8 octobre 2025 : Conférence de rentrée ENR'
+      slug: 8-octobre-2025-conference-de-rentree-enr
       target: "/conference-de-rentree-8-octobre-2025/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/conference-de-rentree-8-octobre-2025"
       file: content/fr/pages/conference-de-rentree-8-octobre-2025/_index.html
     - title: Assises du Numérique à l'Ecole le 12 octobre 2024
+      slug: assises-du-numerique-a-l-ecole-le-12-octobre-2024
       target: "/assises-du-numerique-a-lecole-12-octobre-2024/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/assises-du-numerique-a-lecole-12-octobre-2024"
       file: content/fr/pages/assises-du-numerique-a-lecole-12-octobre-2024/_index.html
+    descendants_targets:
+    - "/assises-de-lattention-le-24-janvier-2026/"
+    - "/assises-du-numerique-a-lecole-12-octobre-2024/"
+    - "/conference-de-rentree-8-octobre-2025/"
   - title: Nos tribunes dans la presse
+    slug: nos-tribunes-dans-la-presse
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Tribune parue dans Libération le 23 janvier 2026
+      slug: tribune-parue-dans-liberation-le-23-janvier-2026
       target: https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
     - title: Tribune publiée dans Télérama le 29 août 2025
+      slug: tribune-publiee-dans-telerama-le-29-aout-2025
       target: https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
     - title: Tribune publiée dans Le Monde le 24 septembre 2024
+      slug: tribune-publiee-dans-le-monde-le-24-septembre-2024
       target: "/texte-de-la-tribune-publiee-sur-lemondefr/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/texte-de-la-tribune-publiee-sur-lemondefr"
       file: content/fr/pages/texte-de-la-tribune-publiee-sur-lemondefr/_index.html
     - title: Repensons la place du numérique dans l'éducation (Le Monde, 12 février
         2024)
+      slug: repensons-la-place-du-numerique-dans-l-education-le-monde-12-fevrier-2024
       target: https://www.lemonde.fr/societe/article/2024/02/12/repensons-la-place-du-numerique-dans-l-education_6216172_3224.html
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - "/texte-de-la-tribune-publiee-sur-lemondefr/"
+    - https://www.lemonde.fr/societe/article/2024/02/12/repensons-la-place-du-numerique-dans-l-education_6216172_3224.html
+    - https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
+    - https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
   - title: Nos documents clefs en main
+    slug: nos-documents-clefs-en-main
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Nos dix principales propositions
+      slug: nos-dix-principales-propositions
       target: "/telechargez-nos-propositions/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/telechargez-nos-propositions"
       file: content/fr/pages/telechargez-nos-propositions/_index.html
     - title: Exemple de charte de déconnexion à l'école et à la maison
+      slug: exemple-de-charte-de-deconnexion-a-l-ecole-et-a-la-maison
       target: "/exemple-de-charte-de-deconnexion/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/exemple-de-charte-de-deconnexion"
       file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
     - title: Charte du collectif Attention pour les candidats aux élections municipales
+      slug: charte-du-collectif-attention-pour-les-candidats-aux-elections-municipales
       target: https://www.collectifattention.com/charte-municipale/
       kind: url
       new_tab: true
       children: []
+      descendants_targets: []
+    descendants_targets:
+    - "/exemple-de-charte-de-deconnexion/"
+    - "/telechargez-nos-propositions/"
+    - https://www.collectifattention.com/charte-municipale/
+  descendants_targets:
+  - ''
+  - "/assises-de-lattention-le-24-janvier-2026/"
+  - "/assises-du-numerique-a-lecole-12-octobre-2024/"
+  - "/conference-de-rentree-8-octobre-2025/"
+  - "/exemple-de-charte-de-deconnexion/"
+  - "/telechargez-nos-propositions/"
+  - "/texte-de-la-tribune-publiee-sur-lemondefr/"
+  - https://www.collectifattention.com/charte-municipale/
+  - https://www.lemonde.fr/societe/article/2024/02/12/repensons-la-place-du-numerique-dans-l-education_6216172_3224.html
+  - https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-il-faut-interdire-les-telephones-portables-au-lycee-20260123_H4B4HSTF6JAULHVRWZD7DGDVPI/
+  - https://www.telerama.fr/enfants/l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique-7027102.php
 - title: Que faire concrètement ?
+  slug: que-faire-concretement
   target: "/que-faire-concretement/"
   kind: page
   new_tab: false
   children:
   - title: Etablissements scolaires
+    slug: etablissements-scolaires
     target: "/etablissements-scolaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/etablissements-scolaires"
     file: content/fr/pages/etablissements-scolaires/_index.html
   - title: Enseignants
+    slug: enseignants
     target: "/enseignants/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/enseignants"
     file: content/fr/pages/enseignants/_index.html
   - title: Familles
+    slug: familles
     target: "/familles/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/familles"
     file: content/fr/pages/familles/_index.html
   - title: Téléchargez toutes nos propositions
+    slug: telechargez-toutes-nos-propositions
     target: "/telechargez-nos-propositions/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/telechargez-nos-propositions"
     file: content/fr/pages/telechargez-nos-propositions/_index.html
+  descendants_targets:
+  - "/enseignants/"
+  - "/etablissements-scolaires/"
+  - "/familles/"
+  - "/telechargez-nos-propositions/"
   path: "/pages/que-faire-concretement"
   file: content/fr/pages/que-faire-concretement/_index.html
 - title: En savoir plus
+  slug: en-savoir-plus
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Nous sommes
+    slug: nous-sommes
     target: "/nous-sommes/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nous-sommes"
     file: content/fr/pages/nous-sommes/_index.html
   - title: Notre appel à signatures
+    slug: notre-appel-a-signatures
     target: "/la-lettre/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-lettre"
     file: content/fr/pages/la-lettre/_index.html
   - title: Nos soutiens
+    slug: nos-soutiens
     target: "/nos-soutiens/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/nos-soutiens"
     file: content/fr/pages/nos-soutiens/_index.html
   - title: Associations amies
+    slug: associations-amies
     target: "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/associations-de-sensibilisation-a-la-surexposition-aux-ecrans"
     file: content/fr/pages/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/_index.html
+  descendants_targets:
+  - "/associations-de-sensibilisation-a-la-surexposition-aux-ecrans/"
+  - "/la-lettre/"
+  - "/nos-soutiens/"
+  - "/nous-sommes/"
 - title: Actualités
+  slug: actualites
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Tribune parue dans Libération le 23 janvier 2026
+    slug: tribune-parue-dans-liberation-le-23-janvier-2026
     target: "/actualites/tribune-parue-dans-liberation-du-23012026/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/actualites/tribune-parue-dans-liberation-du-23012026"
     file: content/fr/pages/actualites/tribune-parue-dans-liberation-du-23012026/_index.html
   - title: Initiative OFF February 2026
+    slug: initiative-off-february-2026
     target: "/actualites/2025-12-14-initiative-off-february-2026/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-12-14-initiative-off-february-2026"
     file: content/fr/posts/2025/2025-12-14-initiative-off-february-2026.html
   - title: 4e édition des Assises de l'attention
+    slug: 4e-edition-des-assises-de-l-attention
     target: "/actualites/2025-11-30-4e-edition-des-assises-de-lattention/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention"
     file: content/fr/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention.html
   - title: 'L’éducation au défi de l’IA : “Il faut mettre fin à l’illusoire formation
       par le numérique”'
+    slug: l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique
     target: "/actualites/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique"
     file: content/fr/posts/2025/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique.html
   - title: Mon bébé était addict au téléphone - Talk Docti
+    slug: mon-bebe-etait-addict-au-telephone-talk-docti
     target: "/actualites/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti"
     file: content/fr/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti.html
   - title: "“Le message n’est pas clair : on dit aux parents que les écrans sont un
       danger pour leur enfant mais l’Éduc..."
+    slug: le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l-educ
     target: "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l"
     file: content/fr/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l.html
   - title: 'Enfant : Troubles du langage, du comportement… Les profs alertent sur
       l’augmentation des problèmes liés aux écrans'
+    slug: enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies-aux-ecrans
     target: "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies"
     file: content/fr/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies.html
   - title: 'Interdiction du portable avant 11 ans: il faut une «approche bénéfices-risques»,
       selon le collectif Éducation numérique raisonnée'
+    slug: interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-education-numerique-raisonnee
     target: "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ"
     file: content/fr/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ.html
   - title: 'Interdiction des écrans aux enfants: Agnès Fabre a alerté l''Élysée sur
       un scandale sanitaire en cours'
+    slug: interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours
     target: "/actualites/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours"
     file: content/fr/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours.html
   - title: 'Écrans à l’école : entre « catastrophe sanitaire » et généralisation des
       outils numériques'
+    slug: ecrans-a-l-ecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques
     target: "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques"
     file: content/fr/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques.html
   - title: '"Bonjour !" matinale TF1 du 10 avril 2024'
+    slug: bonjour-matinale-tf1-du-10-avril-2024
     target: "/actualites/2024-04-10-bonjour-du-10-avril-2024/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-04-10-bonjour-du-10-avril-2024"
     file: content/fr/posts/2024/2024-04-10-bonjour-du-10-avril-2024.html
   - title: Faut-il interdire l'usage des téléphones portables dans les collèges ?
+    slug: faut-il-interdire-l-usage-des-telephones-portables-dans-les-colleges
     target: "/actualites/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges"
     file: content/fr/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges.html
   - title: Les écrans à l’école ou le règne des injonctions contradictoires
+    slug: les-ecrans-a-l-ecole-ou-le-regne-des-injonctions-contradictoires
     target: "/actualites/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires"
     file: content/fr/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires.html
   - title: Pour une éducation au numérique raisonnée? Interview SQOOL TV
+    slug: pour-une-education-au-numerique-raisonnee-interview-sqool-tv
     target: "/actualites/2024-03-13-pour-une-education-au-numerique-raisonnee/"
     kind: post
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee"
     file: content/fr/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee.html
+  descendants_targets:
+  - "/actualites/2024-03-13-pour-une-education-au-numerique-raisonnee/"
+  - "/actualites/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires/"
+  - "/actualites/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges/"
+  - "/actualites/2024-04-10-bonjour-du-10-avril-2024/"
+  - "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
+  - "/actualites/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours/"
+  - "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
+  - "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
+  - "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
+  - "/actualites/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti/"
+  - "/actualites/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique/"
+  - "/actualites/2025-11-30-4e-edition-des-assises-de-lattention/"
+  - "/actualites/2025-12-14-initiative-off-february-2026/"
+  - "/actualites/tribune-parue-dans-liberation-du-23012026/"
 - title: Nous contacter
+  slug: nous-contacter
   target: "/contact/"
   kind: page
   new_tab: false
   children:
   - title: Adhérer
+    slug: adherer
     target: "/adherer-a-notre-association-enr/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/adherer-a-notre-association-enr"
     file: content/fr/pages/adherer-a-notre-association-enr/_index.html
   - title: Vous souhaitez prendre contact avec nous
+    slug: vous-souhaitez-prendre-contact-avec-nous
     target: "/contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
+  descendants_targets:
+  - "/adherer-a-notre-association-enr/"
+  - "/contact/"
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
