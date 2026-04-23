@@ -13,3 +13,12 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/tribune-parue-dans-liberation-du-23012026/"
+to = "/actualites/tribune-parue-dans-liberation-du-23012026/"
+
+[[redirects]]
+from = "/que-faire-concretement/telechargez-nos-propositions/"
+to = "/telechargez-nos-propositions/"
+
