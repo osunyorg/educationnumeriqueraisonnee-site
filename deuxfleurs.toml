@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/tribune-parue-dans-liberation-du-23012026/"
+from = "/tribune-parue-dans-liberation-du-23012026/index.html"
 to = "/actualites/tribune-parue-dans-liberation-du-23012026/"
 
 [[redirects]]
-from = "/que-faire-concretement/telechargez-nos-propositions/"
+from = "/que-faire-concretement/telechargez-nos-propositions/index.html"
 to = "/telechargez-nos-propositions/"
 
