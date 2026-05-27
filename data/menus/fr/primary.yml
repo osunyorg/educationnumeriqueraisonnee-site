@@ -235,6 +235,13 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: ENR chez "Zoom Zoom Zen" (France Inter) du 25 mai 2026
+    slug: enr-chez-zoom-zoom-zen-france-inter-du-25-mai-2026
+    target: https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-lundi-25-mai-2026-8035612
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
   - title: Tribune parue dans Libération le 23 janvier 2026
     slug: tribune-parue-dans-liberation-le-23-janvier-2026
     target: "/actualites/tribune-parue-dans-liberation-du-23012026/"
@@ -281,13 +288,6 @@ items:
     descendants_targets: []
     path: "/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti"
     file: content/fr/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti.html
-  - title: ENR chez "Zoom Zoom Zen" (France Inter) du 25 mai 2026
-    slug: enr-chez-zoom-zoom-zen-france-inter-du-25-mai-2026
-    target: https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-lundi-25-mai-2026-8035612
-    kind: url
-    new_tab: true
-    children: []
-    descendants_targets: []
   - title: "“Le message n’est pas clair : on dit aux parents que les écrans sont un
       danger pour leur enfant mais l’Éduc..."
     slug: le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l-educ
