@@ -15,3 +15,6 @@ params:
     footer: "/assets/images/logo.svg"
   breadcrumb:
     position: hero-end
+  home:
+    head:
+      title: site
