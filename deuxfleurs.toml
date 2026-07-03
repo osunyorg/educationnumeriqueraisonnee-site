@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-05-20-quel-role-les-ia-peuvent-elles-jouer-pour-aider-les-eleves-a-travailler-partir-de-leurs-pratiques-po/index.html"
+to = "/actualites/2026-05-20-quel-role-les-ia-peuvent-elles-jouer-pour-aider-les-eleves-a-travailler/"
+
+[[redirects]]
 from = "/tribune-parue-dans-liberation-du-23012026/index.html"
 to = "/actualites/tribune-parue-dans-liberation-du-23012026/"
 
