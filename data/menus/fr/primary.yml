@@ -235,69 +235,6 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: ENR chez "Zoom Zoom Zen" (France Inter) du 25 mai 2026
-    slug: enr-chez-zoom-zoom-zen-france-inter-du-25-mai-2026
-    target: https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-lundi-25-mai-2026-8035612
-    kind: url
-    new_tab: true
-    children: []
-    descendants_targets: []
-  - title: Tribune parue dans Libération le 23 janvier 2026
-    slug: tribune-parue-dans-liberation-le-23-janvier-2026
-    target: "/actualites/tribune-parue-dans-liberation-du-23012026/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/actualites/tribune-parue-dans-liberation-du-23012026"
-    file: content/fr/pages/actualites/tribune-parue-dans-liberation-du-23012026/_index.html
-  - title: Initiative OFF February 2026
-    slug: initiative-off-february-2026
-    target: "/actualites/2025-12-14-initiative-off-february-2026/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-12-14-initiative-off-february-2026"
-    file: content/fr/posts/2025/2025-12-14-initiative-off-february-2026.html
-  - title: 4e édition des Assises de l'attention
-    slug: 4e-edition-des-assises-de-l-attention
-    target: "/actualites/2025-11-30-4e-edition-des-assises-de-lattention/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention"
-    file: content/fr/posts/2025/2025-11-30-4e-edition-des-assises-de-lattention.html
-  - title: 'L’éducation au défi de l’IA : “Il faut mettre fin à l’illusoire formation
-      par le numérique”'
-    slug: l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique
-    target: "/actualites/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique"
-    file: content/fr/posts/2025/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique.html
-  - title: Mon bébé était addict au téléphone - Talk Docti
-    slug: mon-bebe-etait-addict-au-telephone-talk-docti
-    target: "/actualites/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti"
-    file: content/fr/posts/2025/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti.html
-  - title: "“Le message n’est pas clair : on dit aux parents que les écrans sont un
-      danger pour leur enfant mais l’Éduc..."
-    slug: le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l-educ
-    target: "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l"
-    file: content/fr/posts/2025/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l.html
   - title: 'Enfant : Troubles du langage, du comportement… Les profs alertent sur
       l’augmentation des problèmes liés aux écrans'
     slug: enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies-aux-ecrans
@@ -338,58 +275,11 @@ items:
     descendants_targets: []
     path: "/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques"
     file: content/fr/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques.html
-  - title: '"Bonjour !" matinale TF1 du 10 avril 2024'
-    slug: bonjour-matinale-tf1-du-10-avril-2024
-    target: "/actualites/2024-04-10-bonjour-du-10-avril-2024/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-04-10-bonjour-du-10-avril-2024"
-    file: content/fr/posts/2024/2024-04-10-bonjour-du-10-avril-2024.html
-  - title: Faut-il interdire l'usage des téléphones portables dans les collèges ?
-    slug: faut-il-interdire-l-usage-des-telephones-portables-dans-les-colleges
-    target: "/actualites/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges"
-    file: content/fr/posts/2024/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges.html
-  - title: Les écrans à l’école ou le règne des injonctions contradictoires
-    slug: les-ecrans-a-l-ecole-ou-le-regne-des-injonctions-contradictoires
-    target: "/actualites/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires"
-    file: content/fr/posts/2024/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires.html
-  - title: Pour une éducation au numérique raisonnée? Interview SQOOL TV
-    slug: pour-une-education-au-numerique-raisonnee-interview-sqool-tv
-    target: "/actualites/2024-03-13-pour-une-education-au-numerique-raisonnee/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee"
-    file: content/fr/posts/2024/2024-03-13-pour-une-education-au-numerique-raisonnee.html
   descendants_targets:
-  - "/actualites/2024-03-13-pour-une-education-au-numerique-raisonnee/"
-  - "/actualites/2024-03-27-les-ecrans-a-lecole-ou-le-regne-des-injonctions-contradictoires/"
-  - "/actualites/2024-04-09-faut-il-interdire-lusage-des-telephones-portables-dans-les-colleges/"
-  - "/actualites/2024-04-10-bonjour-du-10-avril-2024/"
   - "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
   - "/actualites/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours/"
   - "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
   - "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
-  - "/actualites/2025-02-17-le-message-n-est-pas-clair-on-dit-aux-parents-que-les-ecrans-sont-un-danger-pour-leur-enfant-mais-l/"
-  - "/actualites/2025-03-14-mon-bebe-etait-addict-au-telephone-talk-docti/"
-  - "/actualites/2025-10-08-l-education-au-defi-de-l-ia-il-faut-mettre-fin-a-l-illusoire-formation-par-le-numerique/"
-  - "/actualites/2025-11-30-4e-edition-des-assises-de-lattention/"
-  - "/actualites/2025-12-14-initiative-off-february-2026/"
-  - "/actualites/tribune-parue-dans-liberation-du-23012026/"
-  - https://www.radiofrance.fr/franceinter/podcasts/zoom-zoom-zen/zoom-zoom-zen-du-lundi-25-mai-2026-8035612
 - title: Nous contacter
   slug: nous-contacter
   target: "/contact/"
