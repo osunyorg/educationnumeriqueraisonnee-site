@@ -234,79 +234,16 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children:
-  - title: 'Enfant : Troubles du langage, du comportement… Les profs alertent sur
-      l’augmentation des problèmes liés aux écrans'
-    slug: enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies-aux-ecrans
-    target: "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies"
-    file: content/fr/posts/2025/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies.html
-  - title: 'Interdiction du portable avant 11 ans: il faut une «approche bénéfices-risques»,
-      selon le collectif Éducation numérique raisonnée'
-    slug: interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-education-numerique-raisonnee
-    target: "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ"
-    file: content/fr/posts/2024/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ.html
-  - title: 'Interdiction des écrans aux enfants: Agnès Fabre a alerté l''Élysée sur
-      un scandale sanitaire en cours'
-    slug: interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours
-    target: "/actualites/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours"
-    file: content/fr/posts/2024/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours.html
-  - title: 'Écrans à l’école : entre « catastrophe sanitaire » et généralisation des
-      outils numériques'
-    slug: ecrans-a-l-ecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques
-    target: "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
-    kind: post
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques"
-    file: content/fr/posts/2024/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques.html
-  descendants_targets:
-  - "/actualites/2024-04-15-ecrans-a-lecole-entre-catastrophe-sanitaire-et-generalisation-des-outils-numeriques/"
-  - "/actualites/2024-07-09-interdiction-des-ecrans-aux-enfants-agnes-fabre-a-alerte-l-elysee-sur-un-scandale-sanitaire-en-cours/"
-  - "/actualites/2024-07-09-interdiction-du-portable-avant-11-ans-il-faut-une-approche-benefices-risques-selon-le-collectif-educ/"
-  - "/actualites/2025-02-02-enfant-troubles-du-langage-du-comportement-les-profs-alertent-sur-l-augmentation-des-problemes-lies/"
-- title: Nous contacter
-  slug: nous-contacter
-  target: "/contact/"
+  children: []
+  descendants_targets: []
+- title: Adhérer
+  slug: adherer
+  target: "/adherer/"
   kind: page
   new_tab: false
-  children:
-  - title: Adhérer
-    slug: adherer
-    target: "/adherer-a-notre-association-enr/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/adherer-a-notre-association-enr"
-    file: content/fr/pages/adherer-a-notre-association-enr/_index.html
-  - title: Vous souhaitez prendre contact avec nous
-    slug: vous-souhaitez-prendre-contact-avec-nous
-    target: "/contact/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/contact"
-    file: content/fr/pages/contact/_index.html
-  descendants_targets:
-  - "/adherer-a-notre-association-enr/"
-  - "/contact/"
-  path: "/pages/contact"
-  file: content/fr/pages/contact/_index.html
+  children: []
+  descendants_targets: []
+  html_class: menu-class-cta
+  path: "/pages/adherer"
+  file: content/fr/pages/adherer/_index.html
 
