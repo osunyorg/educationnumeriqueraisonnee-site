@@ -16,7 +16,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/adherer-a-notre-association-enr/index.html"
-to = "/adherer/"
+to = "/nous-suivre/"
 
 [[redirects]]
 from = "/actualites/2026-05-20-quel-role-les-ia-peuvent-elles-jouer-pour-aider-les-eleves-a-travailler-partir-de-leurs-pratiques-po/index.html"
@@ -29,4 +29,8 @@ to = "/actualites/tribune-parue-dans-liberation-du-23012026/"
 [[redirects]]
 from = "/que-faire-concretement/telechargez-nos-propositions/index.html"
 to = "/telechargez-nos-propositions/"
+
+[[redirects]]
+from = "/adherer/index.html"
+to = "/nous-suivre/"
 
