@@ -238,8 +238,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Adhérer
-  slug: adherer
+- title: Nous suivre
+  slug: nous-suivre
   target: "/adherer/"
   kind: page
   new_tab: false
