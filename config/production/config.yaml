@@ -7,6 +7,10 @@ osuny:
   website:
     id: d8ecb71a-4dc0-4736-955c-837c881deb9e
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "education-numerique-raisonnee.com"
 
 ## LANGUAGE
 defaultContentLanguage: fr
