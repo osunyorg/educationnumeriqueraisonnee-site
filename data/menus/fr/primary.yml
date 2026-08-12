@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Nos actions
-  slug: nos-actions
+- title: Prises de position
+  slug: prises-de-position
   target: ''
   kind: blank
   new_tab: false
