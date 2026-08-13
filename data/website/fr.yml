@@ -1,4 +1,6 @@
 default:
+  image:
+    id: bc22eed4-5db3-4deb-a60d-66b9d0550600
 contents_reading_time:
   seconds: 0
   text: >-
