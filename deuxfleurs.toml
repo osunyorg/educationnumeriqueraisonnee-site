@@ -1,0 +1,44 @@
+[[cors]]
+allowed_origins = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
+
+[[headers]]
+for = ["**/*.woff2", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.otf", "**/*.eot", "**/*.js", "**/*.css"]
+compress = "gzip"
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[headers]]
+for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/adherer-a-notre-association-enr/index.html"
+to = "/nous-suivre/"
+
+[[redirects]]
+from = "/actualites/2026-05-20-quel-role-les-ia-peuvent-elles-jouer-pour-aider-les-eleves-a-travailler-partir-de-leurs-pratiques-po/index.html"
+to = "/actualites/2026-05-20-quel-role-les-ia-peuvent-elles-jouer-pour-aider-les-eleves-a-travailler/"
+
+[[redirects]]
+from = "/tribune-parue-dans-liberation-du-23012026/index.html"
+to = "/actualites/tribune-parue-dans-liberation-du-23012026/"
+
+[[redirects]]
+from = "/que-faire-concretement/telechargez-nos-propositions/index.html"
+to = "/telechargez-nos-propositions/"
+
+[[redirects]]
+from = "/actualites/2026-09-01-toy-story-5/index.html"
+to = "/actualites/2026-07-01-toy-story-5/"
+
+[[redirects]]
+from = "/adherer/index.html"
+to = "/nous-suivre/"
+
+[[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/enr-propositions-pour-proteger-enfants-et-adolescents-des-risques-de-l-hyperconnexion-janvier-2026pd/"
+
