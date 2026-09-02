@@ -42,3 +42,7 @@ to = "/nous-suivre/"
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/enr-propositions-pour-proteger-enfants-et-adolescents-des-risques-de-l-hyperconnexion-janvier-2026pd/"
 
+[[redirects]]
+from = "/actualites/2026-09-01-tribune-droit-des-eleves-a-la-deconnexion-texte-et-signataires/index.html"
+to = "/actualites/2024-09-24-tribune-droit-des-eleves-a-la-deconnexion-texte-et-signataires/"
+
