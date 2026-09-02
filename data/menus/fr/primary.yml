@@ -1,15 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: À lire, à voir
   slug: a-lire-a-voir
   target: "/actualites/a-lire-a-voir/"
