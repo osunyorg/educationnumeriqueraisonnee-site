@@ -37,4 +37,13 @@ items:
   descendants_targets: []
   path: "/posts_categories/nous-suivre"
   file: content/fr/posts_categories/nous-suivre/_index.html
+- title: Libre expression
+  slug: libre-expression
+  target: "/actualites/libre-expression/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/libre-expression"
+  file: content/fr/posts_categories/libre-expression/_index.html
 
