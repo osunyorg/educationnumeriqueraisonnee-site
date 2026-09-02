@@ -28,8 +28,8 @@ items:
   descendants_targets: []
   path: "/posts_categories/a-lire-a-voir"
   file: content/fr/posts_categories/a-lire-a-voir/_index.html
-- title: Nous suivre
-  slug: nous-suivre
+- title: Evènements/Nous suivre
+  slug: evenements-nous-suivre
   target: "/actualites/nous-suivre/"
   kind: category
   new_tab: false
