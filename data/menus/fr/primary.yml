@@ -46,13 +46,4 @@ items:
   descendants_targets: []
   path: "/posts_categories/nous-suivre"
   file: content/fr/posts_categories/nous-suivre/_index.html
-- title: Exemple de charte de déconnexion
-  slug: exemple-de-charte-de-deconnexion
-  target: "/exemple-de-charte-de-deconnexion/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/exemple-de-charte-de-deconnexion"
-  file: content/fr/pages/exemple-de-charte-de-deconnexion/_index.html
 
